@@ -1,0 +1,17 @@
+body{
+  font-family:sans-serif;
+  background-color: #cc9900;
+  text-align: center;
+}
+h1{
+  color: #006600;
+  text-decoration: underline;
+}
+h3{
+  border: dashed 5px #006600;
+}
+img{
+  margin: auto;
+  border: solid 10px grey;
+  border-radius: 800px;
+}
